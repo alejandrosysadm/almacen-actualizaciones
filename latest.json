@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "fecha": "2026-10-21",
-  "archivo": "almacen-1.0.0.tar.gz",
-  "sha256": "c2e9decc96c19c0d47d2f03f8f9109ce9bc15e9e294a3edeb0353534160f3c50",
-  "firma": "QxDt0vMwyfQInWCwryiD3qG7kELAQd7BV_dw4QSJpUsBTkx_uwV_pZNUftRUV60WENG2ZmmIwCUs7WwVbmHlAA",
+  "archivo": "almacen-1.0.1.tar.gz",
+  "sha256": "191857352249a501d6b8625e9bd3b2f14387043f225bc09dad886245d6c27725",
+  "firma": "OVOyIZzbo-ImZgJAOkvN511Up_HFcNIUDHC1QZ95SomNFORiPOsorHVZBDKK9hCCwe2fdQ1pCQqQOLoRs3t0Cw",
   "node": "v22.23.3",
-  "notas": "Primera versión aplicación Control de Almacen"
+  "notas": "Corrección al restaurar copias de seguridad"
 }
