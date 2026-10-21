@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "fecha": "2026-10-21",
+  "archivo": "almacen-1.0.0.tar.gz",
+  "sha256": "c2e9decc96c19c0d47d2f03f8f9109ce9bc15e9e294a3edeb0353534160f3c50",
+  "firma": "QxDt0vMwyfQInWCwryiD3qG7kELAQd7BV_dw4QSJpUsBTkx_uwV_pZNUftRUV60WENG2ZmmIwCUs7WwVbmHlAA",
+  "node": "v22.23.3",
+  "notas": "Primera versión aplicación Control de Almacen"
+}
