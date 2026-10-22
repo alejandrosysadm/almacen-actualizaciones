@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.0.7",
+    "fecha": "2026-10-22",
+    "archivo": "almacen-1.0.7.tar.gz",
+    "sha256": "9b809b4a6b0440d8f3ce198c9ccfd3ef78c57ae9e0d70703c5624ab196df7be5",
+    "node": "v22.23.3",
+    "notas": "Pruebas versiones",
+    "firma": "Qy-kuEOxed7pFdANJPCpM2-X2XFY-LJKmCb3UJ1F4tSbDA2g03O921zE-JbcSQHId1dekS7p58Sciq34Yu_-Aw"
+  },
+  {
     "version": "1.0.6",
     "fecha": "2026-10-22",
     "archivo": "almacen-1.0.6.tar.gz",

@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "fecha": "2026-10-22",
-  "archivo": "almacen-1.0.6.tar.gz",
-  "sha256": "62f4e1355774ed2524f2c42321936a2265275dce7a4c5f98981261009df97a17",
-  "firma": "89m0kqeHPy5dk4ne_5QVTc0qq9izx4-5zdKhl8qlpZj0Jh_vtJDPki0CCMxzHraRhqCb_oRTxIHOVuirZKAQCg",
+  "archivo": "almacen-1.0.7.tar.gz",
+  "sha256": "9b809b4a6b0440d8f3ce198c9ccfd3ef78c57ae9e0d70703c5624ab196df7be5",
+  "firma": "Qy-kuEOxed7pFdANJPCpM2-X2XFY-LJKmCb3UJ1F4tSbDA2g03O921zE-JbcSQHId1dekS7p58Sciq34Yu_-Aw",
   "node": "v22.23.3",
-  "notas": "Cambio sistema de versiones en la configuración"
+  "notas": "Pruebas versiones"
 }
