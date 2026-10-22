@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.0.6",
+    "fecha": "2026-10-22",
+    "archivo": "almacen-1.0.6.tar.gz",
+    "sha256": "62f4e1355774ed2524f2c42321936a2265275dce7a4c5f98981261009df97a17",
+    "node": "v22.23.3",
+    "notas": "Cambio sistema de versiones en la configuración",
+    "firma": "89m0kqeHPy5dk4ne_5QVTc0qq9izx4-5zdKhl8qlpZj0Jh_vtJDPki0CCMxzHraRhqCb_oRTxIHOVuirZKAQCg"
+  }
+]
