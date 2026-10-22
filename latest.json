@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "fecha": "2026-10-22",
-  "archivo": "almacen-1.0.3.tar.gz",
-  "sha256": "f817ca321d50063c578183fee993bb02b8b48f53b1910165a19f77a3774185cb",
-  "firma": "_xj_5-SFcEPepEpW9Mk5Yg7bx57lYGO-KksYuFkvJ5sVXop7TuZscInAdRBhq7ShUI37hHRwvwdtEBQxaYieBw",
+  "archivo": "almacen-1.0.4.tar.gz",
+  "sha256": "d03e57a3eb093f7b55fed2707c8d6f4ba9f4f46e7d0229d7b102b78a6681d258",
+  "firma": "o3U_o3UL9GvyT9rPsGtomcNSmCts_Rcy7N_fNH1T0vCqi0u5Me61IjxWYqbRn4QG5thsM0CfvTEzMkllrJi7Bw",
   "node": "v22.23.3",
-  "notas": "Despliegue"
+  "notas": "Corrección en los avisos de stock"
 }
