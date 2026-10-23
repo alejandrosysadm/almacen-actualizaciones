@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.0.8",
+    "fecha": "2026-10-23",
+    "archivo": "almacen-1.0.8.tar.gz",
+    "sha256": "b4709867a1672916465facecaa4a1d6487c01b470b4b6b3b23da1fa51f8194a1",
+    "node": "v22.23.3",
+    "notas": "Mapa 3D: los elementos del plano vuelven a mostrarse",
+    "firma": "a2soeF1dBTJYQyIn50ev6eiCWVC-fTnTqLFVJrj48GuOpyZ2WLJ2Hxg8Z6pkSIcrrRzjeQYFQ2AQOnu2_stmAA"
+  },
+  {
     "version": "1.0.7",
     "fecha": "2026-10-22",
     "archivo": "almacen-1.0.7.tar.gz",
