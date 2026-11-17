@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.1.9",
+    "fecha": "2026-11-17",
+    "archivo": "almacen-1.1.9.tar.gz",
+    "sha256": "a79992912744e07fc81e644693c0061da7c0552a4f8d5aab60e18dc233c49adf",
+    "node": "v22.23.3",
+    "notas": "feat: entrada rápida en el móvil (selector Salida/Entrada)\n\n- La pantalla móvil/PDA añade un selector Salida/Entrada\n- Entrada rápida: escaneo de nº de serie con lista (avisa de los ya\n  existentes) y formulario con los campos de la categoría (ticket,\n  tipo, marca, modelo, país, cliente, condición, SO, ubicación, balda)\n- Da de alta un equipo por serie reutilizando la lógica de entrada;\n  requiere el permiso inv.create (se indica en Roles)",
+    "firma": "FtNvaR1Cchjjs4IFUAC9phKe6xhujmY1VlEDrdudUBkUh_y-dR3m5XzCRMQ2kmriRku4npE3pjufCZ8YYqJqDQ"
+  },
+  {
     "version": "1.1.8",
     "fecha": "2026-11-17",
     "archivo": "almacen-1.1.8.tar.gz",
