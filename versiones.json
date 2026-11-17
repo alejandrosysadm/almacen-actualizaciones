@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.1.2",
+    "fecha": "2026-11-17",
+    "archivo": "almacen-1.1.2.tar.gz",
+    "sha256": "3499ec57c81979e0615b9e1f7fd985297be0e9c73918e63bdd5b961679de5458",
+    "node": "v22.23.3",
+    "notas": "Salida: pre-rellenar campos, sede por cliente y rellenar el campo obligatorio desde el aviso",
+    "firma": "OXcQsXBjb19iDTTBuwWayehLqDqSliu6Ocu6bQQScQ6Nq9-DAqEyLGOB7YBDbi4fMrzEuuLZ2DatRK8V5k1IDA"
+  },
+  {
     "version": "1.1.1",
     "fecha": "2026-11-17",
     "archivo": "almacen-1.1.1.tar.gz",

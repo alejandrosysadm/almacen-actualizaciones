@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "fecha": "2026-11-17",
-  "archivo": "almacen-1.1.1.tar.gz",
-  "sha256": "54c2415d0c20c6639529f7b2aa3854a8cfd2913ae39152f7285b277579b9fb78",
-  "firma": "ecyal1grNJBgW1gwXcDjmys5-Lzd0yAU-nIH7WLIvIyja6V_Oj2ZSWpK5OwZxFQ9kjSSj2knplm0dmgYfKCkDA",
+  "archivo": "almacen-1.1.2.tar.gz",
+  "sha256": "3499ec57c81979e0615b9e1f7fd985297be0e9c73918e63bdd5b961679de5458",
+  "firma": "OXcQsXBjb19iDTTBuwWayehLqDqSliu6Ocu6bQQScQ6Nq9-DAqEyLGOB7YBDbi4fMrzEuuLZ2DatRK8V5k1IDA",
   "node": "v22.23.3",
-  "notas": "Campo necesario para dar salida y destino/albarán en la salida rápida móvil"
+  "notas": "Salida: pre-rellenar campos, sede por cliente y rellenar el campo obligatorio desde el aviso"
 }
