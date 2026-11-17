@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "fecha": "2026-11-17",
-  "archivo": "almacen-1.0.9.tar.gz",
-  "sha256": "f2ca829368ed8bc8836dba3caf26e5fcd6d73f1b0162dd346307659cf7a6aed6",
-  "firma": "678L7K97-7AhhJovcdJS-LI43KTZfgF8AellWqonXxJuFP2u25_g91RF7oI9CMU--k6mK2ffGEOb9llU0iZOBQ",
+  "archivo": "almacen-1.1.0.tar.gz",
+  "sha256": "7737094da4d74d5e9ffd5eef14aa0f7cb3550a3f292a76c432e85d2be8a8a385",
+  "firma": "5KepFPEIL02OX1hrQvtJIwI9eCL0Uu0IlVotEvjD8Y_zAfSh7thV_1Xf61UmMgADL2tYLlmvrf4gphAzbsekAw",
   "node": "v22.23.3",
-  "notas": "Valores nuevos en la lista, tamaño de paquetes en el mapa, orden del panel y suma de accesorios"
+  "notas": "Salida rápida móvil y botón Dar salida desde el inventario"
 }
