@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.1.5",
+    "fecha": "2026-11-17",
+    "archivo": "almacen-1.1.5.tar.gz",
+    "sha256": "27f8bc5249c24a4c810fa167e75e57fd9e32aa015bcd0dc6410fa690994dd163",
+    "node": "v22.23.3",
+    "notas": "feat: enlaces de correo con el DNS del SSL y PDA responsive\n\n- Con HTTPS activado en Ajustes, los correos usan https://<nombre DNS>\n  como URL pública (mail.setPublic), en vez del PUBLIC_URL del .env\n- Salida rápida en modo PDA: safe-area, 100dvh, campos táctiles y\n  ajustes para móviles pequeños (<=560px y <=360px)",
+    "firma": "JBO8YaSIH9dXpHE1hoADQfujFQa00x1PB-9lB-4X7aO8cMCTuVOoaOpjAQcQWSCv1DPJ1kGQbV-UfyXOy9u2Dg"
+  },
+  {
     "version": "1.1.4",
     "fecha": "2026-11-17",
     "archivo": "almacen-1.1.4.tar.gz",

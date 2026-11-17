@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "fecha": "2026-11-17",
-  "archivo": "almacen-1.1.4.tar.gz",
-  "sha256": "69cba222c8ea580b97c0e6f50e6a13af8accc5eac4fb6a5a349280df13d56ddc",
-  "firma": "xrfWRL4XtbX0mqb9xQE2RLaeRpjQqAMy7wVERUSguqcLqTrkrY2WG6NVaEIuOPrq4ulRhmFQ9nM_aPd0x9DBAw",
+  "archivo": "almacen-1.1.5.tar.gz",
+  "sha256": "27f8bc5249c24a4c810fa167e75e57fd9e32aa015bcd0dc6410fa690994dd163",
+  "firma": "JBO8YaSIH9dXpHE1hoADQfujFQa00x1PB-9lB-4X7aO8cMCTuVOoaOpjAQcQWSCv1DPJ1kGQbV-UfyXOy9u2Dg",
   "node": "v22.23.3",
-  "notas": "fix: el rol con acceso total (*) no debe activar el modo PDA\n\nisKiosk solo se activa si el rol incluye pda.salida de forma\nexplícita en su lista de permisos, nunca por el comodín «*» del\nadministrador, que si no quedaba bloqueado en Salida rápida."
+  "notas": "feat: enlaces de correo con el DNS del SSL y PDA responsive\n\n- Con HTTPS activado en Ajustes, los correos usan https://<nombre DNS>\n  como URL pública (mail.setPublic), en vez del PUBLIC_URL del .env\n- Salida rápida en modo PDA: safe-area, 100dvh, campos táctiles y\n  ajustes para móviles pequeños (<=560px y <=360px)"
 }
