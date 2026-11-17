@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.1.6",
+    "fecha": "2026-11-17",
+    "archivo": "almacen-1.1.6.tar.gz",
+    "sha256": "fc9c473c3f4498c1ef2b447c024513bfe0d3f78790f5d0bb84103211d9c9a4cc",
+    "node": "v22.23.3",
+    "notas": "fix: el autocompletado de nº de serie no listaba todos los equipos\n\n- Incluye cualquier equipo con número de serie, no solo las\n  categorías marcadas como serializadas (igual que el botón +)\n- La descripción va en label y el nº de serie en value, para que el\n  filtrado del datalist case siempre por número de serie",
+    "firma": "ZOVyMwQbkUYrbxhZ92I7tCnKHvNSpPJKAJfsR82JeplNQs_Ptwup93_59fDF_qiSn2QP6h5cWHYxDOg3N_GNAw"
+  },
+  {
     "version": "1.1.5",
     "fecha": "2026-11-17",
     "archivo": "almacen-1.1.5.tar.gz",
