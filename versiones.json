@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.0.9",
+    "fecha": "2026-11-17",
+    "archivo": "almacen-1.0.9.tar.gz",
+    "sha256": "f2ca829368ed8bc8836dba3caf26e5fcd6d73f1b0162dd346307659cf7a6aed6",
+    "node": "v22.23.3",
+    "notas": "Valores nuevos en la lista, tamaño de paquetes en el mapa, orden del panel y suma de accesorios",
+    "firma": "678L7K97-7AhhJovcdJS-LI43KTZfgF8AellWqonXxJuFP2u25_g91RF7oI9CMU--k6mK2ffGEOb9llU0iZOBQ"
+  },
+  {
     "version": "1.0.8",
     "fecha": "2026-10-23",
     "archivo": "almacen-1.0.8.tar.gz",
