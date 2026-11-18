@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "fecha": "2026-11-18",
-  "archivo": "almacen-1.2.4.tar.gz",
-  "sha256": "2077b2123213c2ebe7f826c89a11497d500c7d2e953116737f0dd41cbae581d1",
-  "firma": "wpk3inW8De_sG6fxHINURdaHB_HdQY-b6M6wF56mowJCLMvT1shEBKarpSzgCBMX8q4Nn6kSRmDR2sU707eNDQ",
+  "archivo": "almacen-1.2.5.tar.gz",
+  "sha256": "7a12c6fb739369964b7580d30094e1236aff2fdd8d36dcc50114ead72866228e",
+  "firma": "xbgA8YOwcUGLOzBdSTX85vnVOMLLSVb7-id1fl1w-LOLHJGY_yW_499K31Jsqmr7f0JGYXj3tRJ4WfVEke34Bg",
   "node": "v22.23.3",
-  "notas": "feat: emparejamiento equipo↔pantalla configurable\n\n- Ajustes → Emparejamiento: activar, elegir categorías principal y\n  pareja, nombres, preguntar al dar salida y permitir cámara\n- Emparejar/cambiar/deshacer desde la ficha (escaneo o nº de serie)\n- Paso de emparejado al dar salida (escritorio y móvil): pide la\n  pareja de cada equipo/pantalla sin emparejar; vacío = sale solo\n- Albarán: columna «Emparejado con» (parejaSerie en las líneas) y\n  campo data.parejaId bidireccional en los artículos"
+  "notas": "feat: emparejamiento automático equipo↔pantalla por campo común\n\n- Ajustes → Emparejamiento: activar, categorías principal y pareja,\n  y campo que empareja (p. ej. la cuenta), con nombres configurables\n- La pareja se detecta sola: artículos de ambas categorías con el\n  mismo valor en ese campo quedan emparejados (admite 1:N)\n- Ficha: muestra la pareja detectada; albarán: columna «Emparejado\n  con» (parejaSerie por coincidencia de campo). Quitado el emparejado\n  manual y la pregunta al dar salida"
 }

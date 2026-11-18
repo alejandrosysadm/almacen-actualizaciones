@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.2.5",
+    "fecha": "2026-11-18",
+    "archivo": "almacen-1.2.5.tar.gz",
+    "sha256": "7a12c6fb739369964b7580d30094e1236aff2fdd8d36dcc50114ead72866228e",
+    "node": "v22.23.3",
+    "notas": "feat: emparejamiento automático equipo↔pantalla por campo común\n\n- Ajustes → Emparejamiento: activar, categorías principal y pareja,\n  y campo que empareja (p. ej. la cuenta), con nombres configurables\n- La pareja se detecta sola: artículos de ambas categorías con el\n  mismo valor en ese campo quedan emparejados (admite 1:N)\n- Ficha: muestra la pareja detectada; albarán: columna «Emparejado\n  con» (parejaSerie por coincidencia de campo). Quitado el emparejado\n  manual y la pregunta al dar salida",
+    "firma": "xbgA8YOwcUGLOzBdSTX85vnVOMLLSVb7-id1fl1w-LOLHJGY_yW_499K31Jsqmr7f0JGYXj3tRJ4WfVEke34Bg"
+  },
+  {
     "version": "1.2.4",
     "fecha": "2026-11-18",
     "archivo": "almacen-1.2.4.tar.gz",
