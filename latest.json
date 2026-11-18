@@ -1,9 +1,9 @@
 {
-  "version": "1.1.9",
-  "fecha": "2026-11-17",
-  "archivo": "almacen-1.1.9.tar.gz",
-  "sha256": "a79992912744e07fc81e644693c0061da7c0552a4f8d5aab60e18dc233c49adf",
-  "firma": "FtNvaR1Cchjjs4IFUAC9phKe6xhujmY1VlEDrdudUBkUh_y-dR3m5XzCRMQ2kmriRku4npE3pjufCZ8YYqJqDQ",
-  "node": "v22.23.3",
-  "notas": "feat: entrada rápida en el móvil (selector Salida/Entrada)\n\n- La pantalla móvil/PDA añade un selector Salida/Entrada\n- Entrada rápida: escaneo de nº de serie con lista (avisa de los ya\n  existentes) y formulario con los campos de la categoría (ticket,\n  tipo, marca, modelo, país, cliente, condición, SO, ubicación, balda)\n- Da de alta un equipo por serie reutilizando la lógica de entrada;\n  requiere el permiso inv.create (se indica en Roles)"
+  "version": "1.2.0",
+  "fecha": "2026-11-18",
+  "archivo": "almacen-1.2.0.tar.gz",
+  "sha256": "b9ba76c9842fe2040a320413ddad00b3e0af9d006f1250fb42a84cb5109374ca",
+  "firma": "GC0gb3mOwnXopNLoeiMFUlNXn3s9A5VE5-QAdK85oca25iWQQ92N-suLF9r-FcteMdg74uq2XwZQRpLXQ2QxCw",
+  "node": "v22.23.5",
+  "notas": "feat: shift-click en inventario y albarán de entrada\n\n- Selección por rango con Shift+clic en las casillas del inventario\n- Nuevo albarán de entrada (kind 'entrada', numeración ENT): PDF con\n  cabecera y firmas propias, plantillas de correo y destinatarios por\n  defecto configurables, con casilla de envío marcada o no por defecto\n- Botón «Notificar entrada» en la selección del inventario: crea el\n  albarán de material ya en stock sin cambiar su estado, con correo\n  opcional; endpoint POST /api/deliveries/entrada"
 }
