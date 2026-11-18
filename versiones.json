@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.2.2",
+    "fecha": "2026-11-18",
+    "archivo": "almacen-1.2.2.tar.gz",
+    "sha256": "00581d8a78fc7d2b4f68cccfaaddbfdc26310e967ff69fa374d6be113a3a3c70",
+    "node": "v22.23.3",
+    "notas": "feat: albarán de entrada en los formularios y pestañas en movimientos\n\n- Entrada de material (escritorio) y Salida rápida>Entrada (móvil)\n  generan el albarán de entrada y lo envían por correo (helper\n  createEntradaAlbaran); antes la casilla no hacía nada\n- «Entradas y salidas» reorganizado en pestañas: Entrada, Salida,\n  Traspaso, Retirada y Colocar en ubicación, conservando lo escrito\n  al cambiar de pestaña",
+    "firma": "9qkXeaSmiJ-ul0W8FqQC1N_Pxr-g9AoFiyNPzeoToNlH-PMgbmxV0O0voAMh70Qh7NMkCdnVgpuWAD5PNIldCA"
+  },
+  {
     "version": "1.2.1",
     "fecha": "2026-11-18",
     "archivo": "almacen-1.2.1.tar.gz",

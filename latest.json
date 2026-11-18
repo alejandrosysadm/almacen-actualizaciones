@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "fecha": "2026-11-18",
-  "archivo": "almacen-1.2.1.tar.gz",
-  "sha256": "ffc5775c9361557e3c368d55dba583dda5e03fd96e73bcf8f0666d6a55a6fe35",
-  "firma": "I6ywaljytnWCdjrdFvIr_zzlBq7V0rFbOG6oPXHBBdNlr4dsJM4niPAdr0EPuuGz_sl8iryX1KWmRQE6aYpxCg",
+  "archivo": "almacen-1.2.2.tar.gz",
+  "sha256": "00581d8a78fc7d2b4f68cccfaaddbfdc26310e967ff69fa374d6be113a3a3c70",
+  "firma": "9qkXeaSmiJ-ul0W8FqQC1N_Pxr-g9AoFiyNPzeoToNlH-PMgbmxV0O0voAMh70Qh7NMkCdnVgpuWAD5PNIldCA",
   "node": "v22.23.3",
-  "notas": "feat: shift-click en inventario y albarán de entrada\n\n- Selección por rango con Shift+clic en las casillas del inventario\n- Nuevo albarán de entrada (kind 'entrada', numeración ENT): PDF con\n  cabecera y firmas propias, plantillas de correo y destinatarios por\n  defecto configurables, con casilla de envío marcada o no por defecto\n- Botón «Notificar entrada» en la selección del inventario: crea el\n  albarán de material ya en stock sin cambiar su estado, con correo\n  opcional; endpoint POST /api/deliveries/entrada"
+  "notas": "feat: albarán de entrada en los formularios y pestañas en movimientos\n\n- Entrada de material (escritorio) y Salida rápida>Entrada (móvil)\n  generan el albarán de entrada y lo envían por correo (helper\n  createEntradaAlbaran); antes la casilla no hacía nada\n- «Entradas y salidas» reorganizado en pestañas: Entrada, Salida,\n  Traspaso, Retirada y Colocar en ubicación, conservando lo escrito\n  al cambiar de pestaña"
 }
