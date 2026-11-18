@@ -1,9 +1,9 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "fecha": "2026-11-18",
-  "archivo": "almacen-1.2.3.tar.gz",
-  "sha256": "6b0e7ed768690a97177fd80f3ab06f3001716aad1dbe55afbbecb8ccfa90bdca",
-  "firma": "Oo7-Osk8rr4N2WdkHt6mQETC7Ro2DkXnYmjsP-pupEe9WcDpilU5T2DCEhpLqITEN4tpTzV7DqCB39bI_lKMDQ",
+  "archivo": "almacen-1.2.4.tar.gz",
+  "sha256": "2077b2123213c2ebe7f826c89a11497d500c7d2e953116737f0dd41cbae581d1",
+  "firma": "wpk3inW8De_sG6fxHINURdaHB_HdQY-b6M6wF56mowJCLMvT1shEBKarpSzgCBMX8q4Nn6kSRmDR2sU707eNDQ",
   "node": "v22.23.3",
-  "notas": "fix: los albaranes de entrada/traspaso/retirada respetan los\ninterruptores de contenido\n\nAntes se forzaban todas las secciones en esos tipos; ahora solo se\nfuerzan los cuadros de emisor/destino y el resto (firmas,\nobservaciones, transportista, conformidad) respeta Ajustes."
+  "notas": "feat: emparejamiento equipo↔pantalla configurable\n\n- Ajustes → Emparejamiento: activar, elegir categorías principal y\n  pareja, nombres, preguntar al dar salida y permitir cámara\n- Emparejar/cambiar/deshacer desde la ficha (escaneo o nº de serie)\n- Paso de emparejado al dar salida (escritorio y móvil): pide la\n  pareja de cada equipo/pantalla sin emparejar; vacío = sale solo\n- Albarán: columna «Emparejado con» (parejaSerie en las líneas) y\n  campo data.parejaId bidireccional en los artículos"
 }
