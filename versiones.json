@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.2.3",
+    "fecha": "2026-11-18",
+    "archivo": "almacen-1.2.3.tar.gz",
+    "sha256": "6b0e7ed768690a97177fd80f3ab06f3001716aad1dbe55afbbecb8ccfa90bdca",
+    "node": "v22.23.3",
+    "notas": "fix: los albaranes de entrada/traspaso/retirada respetan los\ninterruptores de contenido\n\nAntes se forzaban todas las secciones en esos tipos; ahora solo se\nfuerzan los cuadros de emisor/destino y el resto (firmas,\nobservaciones, transportista, conformidad) respeta Ajustes.",
+    "firma": "Oo7-Osk8rr4N2WdkHt6mQETC7Ro2DkXnYmjsP-pupEe9WcDpilU5T2DCEhpLqITEN4tpTzV7DqCB39bI_lKMDQ"
+  },
+  {
     "version": "1.2.2",
     "fecha": "2026-11-18",
     "archivo": "almacen-1.2.2.tar.gz",
