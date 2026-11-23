@@ -1,9 +1,9 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.4",
   "fecha": "2026-11-23",
-  "archivo": "almacen-1.3.3.tar.gz",
-  "sha256": "2af492526f9554c9ac2f76f0859750d114deb83d80d07e338921239ffd64ba99",
-  "firma": "RcUvLni17LmhGZeXoXzN0npB5omG1DqcluAqwKyypCm4ZPdTTKv1Po27TkJ-iiRL6urvLasoNRMinvOGYvMDAw",
+  "archivo": "almacen-1.3.4.tar.gz",
+  "sha256": "04cd5e90a39dd121b76c2d3ecd3e634812faa2b07d1fe184f1c5ab18f772dfef",
+  "firma": "et4ygL4nboS3_rThwnnEF2r_PqCl2jewvkVi61jWIT43w2Yq_LcRqG0Q_ykAii3IIeGV40hDRKsZJES91QVHDQ",
   "node": "v22.23.3",
   "notas": ""
 }
