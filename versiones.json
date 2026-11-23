@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.3.1",
+    "fecha": "2026-11-23",
+    "archivo": "almacen-1.3.1.tar.gz",
+    "sha256": "81ea8ee79d462ba12ef839069e1fd8b6195b9314baed688622311b3533fb9f00",
+    "node": "v22.23.3",
+    "notas": "Mejoras en las salidas (busqueda en las sedes de cliente)",
+    "firma": "m5fd_PnyZGUKYpppiX5T9mbeLBUYiMF8rRLWBgyaWkM1Bg65xLSZcbJwwN9CTWmTFb0SJebziw4A7sQmdYqtCw"
+  },
+  {
     "version": "1.3.0",
     "fecha": "2026-11-23",
     "archivo": "almacen-1.3.0.tar.gz",
