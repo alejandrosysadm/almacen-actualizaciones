@@ -1,9 +1,9 @@
 {
-  "version": "1.2.9",
+  "version": "1.3.0",
   "fecha": "2026-11-23",
-  "archivo": "almacen-1.2.9.tar.gz",
-  "sha256": "569e44526dbd187e7d5765b113b2a1918a684e597b7afc462ffff87308f5c49b",
-  "firma": "Wx095vCXUr0MDM58iaoZosIB0nmwb1_f72LWmO1cHtjV9TZ2OpfCxStxbuBxNFWm-x-8i6-z8WB8wlE2ViBfBw",
+  "archivo": "almacen-1.3.0.tar.gz",
+  "sha256": "3432cd314a151b8a36df208e01b15876220f8369d6cec9a274c9caea452b6a2e",
+  "firma": "LWK2i1Z2a5N1iBw-vh_8Dx19pocTgfe5-rIg9SaPu7n1szLrRk92DtN6XRYQzPPzKrwCFHFB4j7T6onLAniDAQ",
   "node": "v22.23.3",
-  "notas": ""
+  "notas": "Mejoras en busqueda equipos en las salidas"
 }
