@@ -1,9 +1,9 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "fecha": "2026-11-23",
-  "archivo": "almacen-1.3.2.tar.gz",
-  "sha256": "3c1d8eb4b9842584fe716830042bff22335087867e18f4687682c6d55ecdcb1c",
-  "firma": "1pim82V5gzfxFp68QaP0FAalf-Iv1ooWZkXWvKk0tctGdZc0CA-T63PhgAPsKfYrIWaYFRHgsI9sR1PiNxV8Aw",
+  "archivo": "almacen-1.3.3.tar.gz",
+  "sha256": "2af492526f9554c9ac2f76f0859750d114deb83d80d07e338921239ffd64ba99",
+  "firma": "RcUvLni17LmhGZeXoXzN0npB5omG1DqcluAqwKyypCm4ZPdTTKv1Po27TkJ-iiRL6urvLasoNRMinvOGYvMDAw",
   "node": "v22.23.3",
-  "notas": "Accesorios: reponer a su línea al anular albarán y juntar al dar entrada\n\nDos arreglos para el material por cantidad (accesorios, soportes…):\n\n- Anular albarán con devolver"
+  "notas": ""
 }
